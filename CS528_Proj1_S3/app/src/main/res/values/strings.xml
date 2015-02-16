@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CS528_Proj1_S3</string>
+    <string name="action_settings">Settings</string>
+    <string name="website1">Website 1</string>
+    <string name="website2">Website 2</string>
+    <string name="website3">Website 3</string>
+
+</resources>
